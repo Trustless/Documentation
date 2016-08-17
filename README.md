@@ -6,7 +6,7 @@ Trustless TMIS provides an Ethereum user an open source standard system for trus
 
 ## Token Templates
 
-Trustless Token Templates include libraries and components slated to build tokens derived from [EIP #20 Standard Tokens] (https://github.com/ethereum/EIPs/issues/20); the original token template: Token.sol. This is a github repo.
+Trustless Token Templates include libraries and components slated to build tokens derived from [EIP #20 Standard Tokens] (https://github.com/ethereum/EIPs/issues/20); the original token template: [Token.sol] (https://github.com/Trustless/Factory/blob/master/Token_Contracts/contracts/Token.sol). This is a github repo.
 
 ## Token Registry
 
