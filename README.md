@@ -1,16 +1,16 @@
-# Trustless Token Management Information System (TTMIS)
+# Trustless - Token Management for Humans
 
-Token Management for Humans... and otherwise. 
+Token Management Information System (TMIS)
 
-TTMIS provides an Ethereum blockchain user an automated interface for minting, monitoring, or manipulating any number of approved tokens. This is in the form of open source code initially managed at github which heavily adapts from open source code originally developed by ConsenSys, Ethereum, and others working on the Ethereum token solutions.
+Trustless TMIS provides an Ethereum user an open source standard system for trustlessly minting, monitoring, or manipulating any number of approved tokens in exchange for ether. This code heavily borrows from code originating from ConsenSys, Ethereum, and others leading the development of Ethereum token solutions.
 
 ## Token Templates
 
-Trustless Token Templates include libraries and components slated to build tokens derived from EIP #20 Standard Tokens (https://github.com/ethereum/EIPs/issues/20); the original token template: Token.sol. This is a github repo.
+Trustless Token Templates include libraries and components slated to build tokens derived from [EIP #20 Standard Tokens] (https://github.com/ethereum/EIPs/issues/20); the original token template: Token.sol. This is a github repo.
 
 ## Token Registry
 
-Trustless Token Registry is derived from EIP #22 Standard Token Registries which is based on blockchain-side namespaces. https://github.com/ethereum/EIPs/issues/22
+Trustless Token Registry is derived from [EIP #22 Standard Token Registries] (https://github.com/ethereum/EIPs/issues/22) which is based on blockchain-side namespaces. 
 
 Tokens generated at a Token Factory will be able to automatically register via that Factory's Registry. This saves time, reduces errors, and accomodate other human friendly features such as automated Accounting. 
 
@@ -26,7 +26,7 @@ With strategic use of standard functions we forsee early relational database cap
 
 ## Token Accounting
 
-Trustless Token Accounting deploys a managed Top-level Token Registry to report on any number of registries, monitor every assortment of tokens, and access their metadata. 
+Trustless Token Accounting deploys a managed Top-level Token Registry to report on any number of registries, monitor every assortment of tokens, and access their metadata. Accounting will allow the TMIS to automatically populate a user's Wallet.
 
 ## Token Trading
 
