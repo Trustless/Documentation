@@ -33,3 +33,9 @@ Trustless Token Accounting is essentially a top-level Token Registry for reporti
 ### [Token Trading] (https://github.com/Trustless/Trading)
 
 Trustless Token Trading (TTT) will allow buys and sells to be made as well using the ether market as a baseline value rating systems for the tokens held in managed accounts. Essentially tokens you are selling will also be the preferred tokens spent and the tokens you are seeking become the tokens you prefer to recieve for any trades. All the Buy and Sell orders deployed by the users of the network work double-time as the actual trading marketplace they are participating in.
+
+## Token Trust
+
+Trustless Token Trust is a decentralized autonomous organization operating to accumulate wealth and value by collecting Ethereum tokens. Proposals typically will request a sendout to a Token Factory or some crowdsale already deployed, with bytecode validated, the token Registered and Accounted for. 
+
+### Liquid Democracy
