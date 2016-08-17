@@ -6,7 +6,7 @@ Trustless TMIS provides an Ethereum user an open source standard system for trus
 
 ## [Token Templates] (https://github.com/Trustless/Factory/tree/master/Token_Contracts/contracts)
 
-Trustless Token Templates include libraries and components slated to build tokens derived from [EIP #20 Standard Tokens] (https://github.com/ethereum/EIPs/issues/20); the original token template: [Token.sol] (https://github.com/Trustless/Factory/blob/master/Token_Contracts/contracts/StandardToken.sol). This is a github repo.
+Trustless Token Templates include libraries and components slated to build tokens derived from [EIP #20 Standard Tokens] (https://github.com/ethereum/EIPs/issues/20); the original token template: [StandardToken.sol] (https://github.com/Trustless/Factory/blob/master/Token_Contracts/contracts/StandardToken.sol). This is a github repo.
 
 ## Token Registry
 
@@ -16,9 +16,7 @@ Tokens generated at a Token Factory will be able to automatically register via t
 
 Tokens not deployed by a Token Factory may be registered directly by way of code pattern validation (expensive).
 
-A managed 
-
-## Token Factory
+## [Token Factory] (https://github.com/Trustless/Factory)
 
 Trustless Token Factory is built to be Ethereum token minting-as-a-service residing completely on the blockchain, yet will be one of the services which can be accessibly managed via a graphical user interface. 
 
@@ -30,9 +28,9 @@ With strategic use of standard functions we forsee early relational database cap
 
 Trustless Token Accounting is essentially a top-level Token Registry for reporting on any number of registries, monitoring every assortment of tokens, and accessing their metadata. Accounting will allow the TMIS to automatically populate a user's Wallet with all the "Trustless" Tokens the user holds.
 
-## Token Trading
+## [Token Trading] (https://github.com/Trustless/Trading)
 
-Trustless Token Trading (TTT) will allow Calls and Puts to be made as well as offer personal value rating systems for the tokens held in managed accounts. Essentially tokens you are placing to the market will be the preferred tokens spent and the tokens you are looking to buy become the tokens you prefer to recieve for services. 
+Trustless Token Trading (TTT) will allow buys and sells to be made as well using the ether market as a baseline value rating systems for the tokens held in managed accounts. Essentially tokens you are selling will also be the preferred tokens spent and the tokens you are seeking become the tokens you prefer to recieve for any trades. All the Buy and Sell orders deployed by the users of the network work double-time as the actual trading marketplace they are participating in.
 
 ## [Token Wallet] (https://github.com/Trustless/Wallet)
 
