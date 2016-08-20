@@ -2,7 +2,7 @@
 
 token Management Information System (tMIS)
 
-Trustless tMIS provides an Ethereum user an open source standard system for trustlessly minting, monitoring, or manipulating any number of approved tokens in exchange for ether. This code heavily borrows from code originating from ConsenSys, Ethereum, Slock and others leading the development of Ethereum token solutions.
+Trustless tMIS provides an Ethereum user an open source standard system for trustlessly minting, monitoring, or manipulating any number of approved tokens in exchange for its ether. This code heavily borrows from code originating from ConsenSys, Ethereum, Slock and others leading the development of Ethereum token solutions.
 
 ## [token Factory] (https://github.com/Trustless/tFactory)
 
