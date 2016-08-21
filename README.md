@@ -14,7 +14,7 @@ With strategic use of standard functions we forsee early relational database cap
 
 ### [token Templates] (https://github.com/Trustless/Factory/tree/master/Token_Contracts/contracts)
 
-Templates are stoed at a github repository which include libraries and components slated to build tokens derived from [EIP #20 Standard Tokens] (https://github.com/ethereum/EIPs/issues/20) such as the original token template: [StandardToken.sol] (https://github.com/Trustless/Factory/blob/master/Token_Contracts/contracts/StandardToken.sol).
+Templates are stored at a github repository which include libraries and components slated to build tokens derived from [EIP #20 Standard Tokens] (https://github.com/ethereum/EIPs/issues/20) such as the original token template: [StandardToken.sol] (https://github.com/Trustless/Factory/blob/master/Token_Contracts/contracts/StandardToken.sol).
 
 ### Registry
 
