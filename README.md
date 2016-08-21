@@ -34,7 +34,7 @@ Accounting is essentially a top-level Token Registry for reporting on any number
 
 tTrust is a decentralized autonomous organization endeavoring to accumulate wealth and value on the Ethereum blockchain by collecting its ether and its tokens. Proposals typically will request a sendout to a tFactory or other contract -- with bytecode validated, the token Registered and already Accounted for. 
 
-## token Exchange (https://github.com/Trustless/tExchange)
+## [token Exchange] (https://github.com/Trustless/tExchange)
 
 Trading will allow 'calls' and 'puts' to be made as well using the ether market as a baseline value rating systems for the tokens held in managed accounts. Essentially tokens you are selling will also be the preferred tokens spent and the tokens you are seeking become the tokens you prefer to recieve for any trades. All the Buy and Sell orders deployed by the users of the network work double-time as the actual trading marketplace they are participating in.
 
