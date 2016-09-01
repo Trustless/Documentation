@@ -28,7 +28,7 @@ tWallet is a GUI (graphical user interface) which offer intuitive human interact
 
 ### Accounting
 
-Accounting is essentially a top-level Token Registry for reporting on any number of registries, monitoring every assortment of tokens, and accessing their metadata. Accounting will allow the TMIS to automatically populate a user's Wallet with all the "Trustless" Tokens the user holds.
+Accounting is essentially a top-level Token Registry for reporting on any number of registries, monitoring every assortment of tokens, and accessing their metadata. Accounting will allow the TMIS to automatically populate a user's Wallet with all the "Trustless" Tokens the user holds. This portion of the project will likely build upon [EIP #137] (https://github.com/ethereum/EIPs/issues/137)
 
 ## [token Trust] (https://github.com/Trustless/tTrust)
 
@@ -36,6 +36,8 @@ tTrust is a decentralized autonomous organization endeavoring to accumulate weal
 the network work double-time as the actual trading marketplace they are participating in.
 
 ### Delegation
+
+This will be a form of Liquid Voting based on Jordi Baylina's [DTHPool.sol] (https://github.com/slockit/DAO/blob/develop/DTHPool.sol)
 
 ## [token Exchange] (https://github.com/Trustless/tExchange)
 
